@@ -14,7 +14,10 @@ span {
 body {
     background-color: #e5e5e5;
 }
-
+.AngolaImg{
+    height: 50px;
+    width: 50px;
+}
 header {
     background-color: #1B83E2;
     height: 66px;
@@ -35,7 +38,14 @@ h1 {
     color: #F4F4F4;
     text-align: center;
     padding-top: 25px;
-
+}
+#p1{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 10px;
+    color: #F4F4F4;
+    text-align: center;
+    padding-top: 8px;
 }
 
 main {
@@ -117,6 +127,7 @@ section {
     line-height: 18px;
     letter-spacing: 0%;
     color: #777777;
+  
 }
 
 .paragrafo2 {
